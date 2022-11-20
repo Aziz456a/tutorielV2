@@ -1,0 +1,17 @@
+C:\Users\Aziz\source\repos\site.DAL\bin\Debug\net7.0\site.DAL.deps.json
+C:\Users\Aziz\source\repos\site.DAL\bin\Debug\net7.0\site.DAL.runtimeconfig.json
+C:\Users\Aziz\source\repos\site.DAL\bin\Debug\net7.0\site.DAL.dll
+C:\Users\Aziz\source\repos\site.DAL\bin\Debug\net7.0\site.DAL.pdb
+C:\Users\Aziz\source\repos\site.DAL\bin\Debug\net7.0\site.BL.dll
+C:\Users\Aziz\source\repos\site.DAL\bin\Debug\net7.0\site.BL.pdb
+C:\Users\Aziz\source\repos\site.DAL\obj\Debug\net7.0\site.DAL.csproj.AssemblyReference.cache
+C:\Users\Aziz\source\repos\site.DAL\obj\Debug\net7.0\site.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aziz\source\repos\site.DAL\obj\Debug\net7.0\site.DAL.AssemblyInfoInputs.cache
+C:\Users\Aziz\source\repos\site.DAL\obj\Debug\net7.0\site.DAL.AssemblyInfo.cs
+C:\Users\Aziz\source\repos\site.DAL\obj\Debug\net7.0\site.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Aziz\source\repos\site.DAL\obj\Debug\net7.0\site.DAL.csproj.CopyComplete
+C:\Users\Aziz\source\repos\site.DAL\obj\Debug\net7.0\site.DAL.dll
+C:\Users\Aziz\source\repos\site.DAL\obj\Debug\net7.0\refint\site.DAL.dll
+C:\Users\Aziz\source\repos\site.DAL\obj\Debug\net7.0\site.DAL.pdb
+C:\Users\Aziz\source\repos\site.DAL\obj\Debug\net7.0\site.DAL.genruntimeconfig.cache
+C:\Users\Aziz\source\repos\site.DAL\obj\Debug\net7.0\ref\site.DAL.dll
